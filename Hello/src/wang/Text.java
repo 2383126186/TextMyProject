@@ -1,7 +1,7 @@
 package wang;
 
 import java.util.HashMap;
-
+//飒飒大萨达大萨达
 public enum Text{
 	
 	INSTANCE;
